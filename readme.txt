@@ -23,11 +23,12 @@ First, download, install, and activate POWr Order Form. Then drop the widget any
 = <a href='http://www.powr.io/tutorials/how-to-add-order-form-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
 <br>
 = Free Features =
-* Accept donations and payments directly through PayPal.
+* Accept payments and donations through PayPal.
+* Create recurring payments for memberships and subscriptions.
 * Easy inputs for text, dropdowns, checkboxes, email, date, and more.
 * Choose from expert-designed templates, or take control with custom fonts, colors, backgrounds, and more.
-* Automatically receive email notifications and send custom “thank you” messages when forms are submitted. 
-* Automatically store responses for analysis and export.
+* Automatically receive email notifications and store responses for analysis and export.  
+* Display custom “thank you” messages when forms are submitted.
 * Choose between optional or required input fields. 
 * Built-in support for text in any language.
 * Mobile responsive design looks great on any device.  
