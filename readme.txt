@@ -26,7 +26,8 @@ First, download, install, and activate POWr Order Form. Then drop the widget any
 * Accept payments and donations through PayPal.
 * Create recurring payments for memberships and subscriptions.
 * Easy inputs for text, dropdowns, checkboxes, email, date, and more.
-* Choose from expert-designed templates, or take control with custom fonts, colors, backgrounds, and more.
+* Use expert templates or customize from scratch.
+* Custom fonts, colors, borders, backgrounds, and more.
 * Automatically receive email notifications and store responses for analysis and export.  
 * Display custom “thank you” messages when forms are submitted.
 * Choose between optional or required input fields. 
@@ -34,11 +35,12 @@ First, download, install, and activate POWr Order Form. Then drop the widget any
 * Mobile responsive design looks great on any device.  
 <br>
 
-= Upgrade ($2.99)/mo and: =
+= Upgrade ($3.99)/mo and: =
 * Eliminate all POWr logos and watermarks
-* Automatically send form responses to multiple email addresses.
-* Choose to clear, lock, hide, or redirect to a new page after user submission.
-* Allow users to upload images, documents, audio, and more.
+* Send form responses to multiple admins
+* Clear, lock, hide, or redirect after submit
+* Block repeat submissions from user
+* Accept file uploads
 * Enable plugin analytics to measure visitors and page views
 * Receive premium POWr support
 * Support the development of other great plugins
